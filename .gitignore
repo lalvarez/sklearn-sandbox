@@ -33,6 +33,7 @@
 
 # PyCharm
 .idea/
+venv/
 
 # Project Specific (C++)
 bin/

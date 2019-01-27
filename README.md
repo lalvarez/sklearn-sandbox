@@ -1,4 +1,10 @@
 # sklearn-sandbox
 A repository to explore various scikit-learn functions using various datasets.
 
-Test pull
+## Authors
+* **Carlos R. Guerra** - [cguerramain](https://github.com/cguerramain)
+* **Mansour Faragall**
+* **Laura**
+
+## Resources
+
